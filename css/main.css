@@ -1,0 +1,197 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+html {
+  background-color: Gainsboro;
+}
+
+body {
+  width:680px;
+  background-color: White;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+body {
+  font: 13.34px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  color:black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+  margin:15px 0 0 0;
+}
+
+p {
+  margin-bottom:10px;
+}
+
+h1 {
+  font-size:40px;
+}
+h2 {
+  font-size:30px;
+}
+h3 {
+  font-size:25px;
+}
+h4 {
+  font-size:20px;
+}
+
+a         { color: #00a; }
+a:hover   { color: #000; }
+a:visited { color: #a0a; }
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+#home {
+  padding:0 40px;
+}
+
+ul.posts {
+}
+
+ul.posts li {
+}
+
+ul.posts span {
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+.site {
+}
+
+.site .header {
+	background:Gainsboro;
+	height: 100px;
+	display:block;
+	padding: 0px 40px 20px;
+}
+
+.site .header .logo {
+  display:inline-block;
+  float:left;
+}
+
+.site .header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site .header h1.title {
+  display: inline-block;
+  font-size:30px;
+  margin-top:35px;
+}
+
+.site .header h1.title a {
+  color: Black;
+}
+
+.site .header h1.title a:hover {
+  color: #000;
+}
+
+.site .header a.extra {
+  font-size: 20px;
+  color: #aaa;
+  float:right;
+  margin-left: 40px;
+  margin-top:  45px;
+}
+
+.site .header a.extra:hover {
+  color: #000;
+}
+
+.site .header .navigation {
+  display:inline-block;
+  float:right;
+}
+
+.site .meta {
+  color: #aaa;
+  padding-bottom:20px;
+}
+
+.footer {
+  background-color:Gainsboro;
+  padding:10px 40px 0;
+}
+
+.footer li {
+  display:inline-block;
+  padding-right:30px;
+}
+
+.site .footer .rss {
+  float: right;
+}
+
+.site .footer .rss img {
+  border: 0;
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+/* standard */
+.post pre {
+  background-color: #eef;
+}
+
+.post ul, .post ol {
+}
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+/* custom */
+.post {
+  padding: 0 40px;
+}
+
+.post table {
+  margin-left:auto;
+  margin-right:auto;
+  background-color: aliceblue;
+}
+
+.post th, td {
+  padding:0 10px 1px 10px;
+ }
