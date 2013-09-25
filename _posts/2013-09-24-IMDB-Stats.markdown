@@ -18,7 +18,7 @@ then we were hoping, but in the process of building it we did come across some
 interesting findings that this post is intended to summarize. 
 
 <i>Note:</i> the data set was filtered to only include movies that meet the following
-contraints:
+constraints:
 
 * Produced in the US
 * Genre isn't 'Short'
@@ -33,7 +33,7 @@ if genre = 'Drama' then user_rating > 7
 if genre = 'Horror' then user_rating < 5
 {% endhighlight %}
 
-This got us thinking that perhaps movies of certain genre's just tend to be
+This got us thinking that perhaps movies of certain genres just tend to be
 better. The following table seems to support that idea.
 
 <table>
@@ -89,7 +89,7 @@ slight negative correlation with the user rating attribute, instead of the
 positive correlation I was expecting to find. 
 
 So the MPAA ratings weren't very useful for predicting user ratings, but they
-are still useful for looking at what kind of garbage is filling our movies:
+are still useful for looking at what kind of obscenities are filling our movies:
 
 <div align="center">
   <img src="/images/mpaa_rating_reasons.png" width="50%"/>
@@ -181,5 +181,5 @@ actresses with at least 20 movies.
 
 Well that gives a quick snapshot of some of our findings. It would be cool to be
 able to pinpoint the exact ingredients that make a great movie, but if that were
-possible then making movies would be more of a science than an art. 
+possible then making movies would be more of a science than an art.
 
