@@ -14,7 +14,7 @@ rating based on its other attributes. So ideally, we would have a decision tree
 that said something like "if a movie is made by Quentin Tarantino and stars
 Brad Pitt, then it will have an average user rating of 9/10." Well the
 decision tree turned out to be quite a bit more complicated and less insightful
-then we were hoping, but in the process of building it we did come across some
+than we were hoping, but in the process of building it we did come across some
 interesting findings that this post is intended to summarize. 
 
 <i>Note:</i> the data set was filtered to only include movies that meet the following
@@ -82,7 +82,7 @@ likes to use certain keywords in their ratings: language, drugs, sex, violence,
 and nudity. So the rating above could be broken down into to a series of
 booleans indicating that the movie contained violence, language, sex and nudity,
 but didn't contain any drugs. I was hoping to find some dirty statistic like
-"movies with violence and drugs tend to be rated higher then those without," but
+"movies with violence and drugs tend to be rated higher than those without," but
 it turned out that MPAA ratings weren't a very good predictor of user ratings.
 Actually, the presence of any of those keywords in a MPAA rating had a
 slight negative correlation with the user rating attribute, instead of the
