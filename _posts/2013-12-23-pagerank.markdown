@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "The Linear Algebra Behind PageRank"
+date: 2013-12-23
+categories: projects
+---
+
+Google was introduced in 1998 in a 
+[paper](http://infolab.stanford.edu/~backrub/google.html)
+published by Stanford graduate students Larry Page and Sergey Brin. In this
+paper they outlined the details behind their PageRank algorithm for calculating
+the importance of webpages on the internet. In its simplest form, the
+algorithm gives a page an importance score based off of the number of other
+pages that link to it. Google uses this importance score to sort the pages in
+their search result list, which helps eliminate junk results and bring relevant
+results to the top of the list.
+
+<div id="figure" align="center">
+  <img src="/images/1998_google_logo.png" width="50%">
+  <p>
+  The original Google logo from 1998!
+  </p>
+</div>
+
+To get into the details of the algorithm a small amount of graph theory is
+involved, and a larger amount of linear algebra. I gave a presentation on these
+details for a graph theory class I was in recently. Check out the 
+[slides here](/images/pagerank_slides.pdf)!
+
+The PageRank algorithm is a great example of how math can be
+applied to solve important problems in computer science. The linear algebra and
+graph theory fit beautifully into solving the PageRank problem, demonstrating
+how well these two abstract fields can be used to model the real world.
+
+During the project I also spent some time playing with web crawlers and did some
+crawling of the [WWU website](http://www.wwu.edu/) using the 
+[Scrapy](http://scrapy.org/) Python module. The initial goal was to perform
+PageRank on all the pages within the wwu.edu domain, but it turned out to be more
+difficult then I anticipated translating the complex hyperlink structure into a
+simple and complete web that would work well for PageRank. From my 
+[experience](/projects/2013/09/24/IMDB-Stats.html) it seems gathering,
+cleansing, and making sense of data is rarely as quick and easy as it
+sounds.
