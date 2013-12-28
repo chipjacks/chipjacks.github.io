@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "COMAP Mathematical Contest in Modeling"
+date: 2012-06-20
+categories: projects
+---
+
+The 
+[COMAP Mathematical Contest in Modeling](http://www.comap.com/undergraduate/contests/mcm/)
+is an international undergraduate
+math competition held every year in February.  It is held over a four-day
+weekend, during which students are required to use mathematical modeling to
+solve real world problems and submit a report detailing their findings. I
+participated in the competition in 2012 with a team of two other WWU students.
+The [problem](http://www.comap.com/undergraduate/contests/mcm/contests/2012/problems/)
+we worked on involved scheduling recreational river rafting trips
+down a hypothetical river that had a limited number of uniformly distributed
+campsites. We managed to devise an algorithm to simulate the movement of rafting
+trips between campsites, and used that simulation to solve the problem presented
+to us.
+
+<div id="figure" align="center">
+  <img src="/images/mcm_algorithm.png" width="100%"/>
+</div>
+
+It was a brutal and sleepless weekend trying to get the report completed in time
+for the 5pm Monday deadline. But our efforts paid off when we received the
+results and found out that from among the 3697 submissions, our paper had been
+chosen as winner and was going to be published in 
+[The UMAP Journal](http://216.250.163.249//product/?idx=1365). 
+A copy of our paper can be found [here](/images/UMAP_river.pdf).
+
