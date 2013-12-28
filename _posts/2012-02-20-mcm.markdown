@@ -20,7 +20,7 @@ trips between campsites, and used that simulation to solve the problem presented
 to us.
 
 <div id="figure" align="center">
-  <img src="/images/mcm_algorithm.png" width="100%"/>
+  <img src="/images/MCM_algorithm.png" width="100%"/>
 </div>
 
 It was a brutal and sleepless weekend trying to get the report completed in time
