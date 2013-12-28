@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "About me"
+title: "About"
 ---
 
 <img src="/images/profile_pic.png" width="25%" align="right"/>
