@@ -36,13 +36,14 @@ convincing themselves to stay out of it.
 
 Try and put yourself in Lance Armstrong’s shoes for a minute. You’re an
 extremely driven young man, determined to prove yourself. You’re also insanely
-competitive and you would be willing to saw your kneecaps off with a rusty
-butter knife if you thought that would improve your chances of winning. So
-you’re working your ass off to be successful as a professional cyclist, but one
-day you find yourself in an environment where all the successful people are
-doping. What are you going to do? This is precisely the situation Levi
-Leipheimer found himself in, which he talked about when he publicly confessed to
-doping:
+competitive and you would be willing to  saw your kneecaps off with a rusty 
+butter knife (as 
+[Jonathan Vaughters](http://www.cyclingnews.com/blogs/jonathan-vaughters/opinion-its-not-all-about-lance-armstrong-and-heres-how-we-can-fight-doping)
+put it) if you thought that would improve your chances of winning. So you’re
+working your ass off to be successful as a professional cyclist, but one day you
+find yourself in an environment where all the successful people are doping. What
+are you going to do? This is precisely the situation Levi Leipheimer found
+himself in, which he talked about when he publicly confessed to doping:
 
 <blockquote>
 <p>
