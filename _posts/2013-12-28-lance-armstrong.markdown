@@ -5,42 +5,43 @@ date: 2013-12-28
 categories: posts
 ---
 
-I still believe in Lance Armstrong.
+I still believe in Lance Armstrong. 
 
 This article isn’t really even about Lance Armstrong though; it’s more about
 second chances, about believing in people even when they make terrible mistakes.
 Because we’ve all made mistakes, and lots of them. Maybe you haven’t been
 cheating and making millions of dollars off of it, but if you think that makes
 you a better person then Lance Armstrong this article is going to challenge you
-to reconsider.
+to reconsider. 
 
 What kind of mistakes have you made in your life? Personally, most of the
 mistakes I’ve made in the past seem pretty inevitable. Like the time at recess
 in 2nd grade when I beat up a kid because my friend told me to. Seems ridiculous
 now, but at the time I’d been watching some violent movies and hanging around
 some violent friends and it seemed like the right thing to do. My environment
-had twisted my morals.
+had twisted my morals.  
 
 The mistakes Lance Armstrong has made are a long shot from beating someone up in
 2nd grade. As a grown man, he has a responsibility to build and maintain strong
 moral principles, and he should be held accountable for his actions. But the
-circumstances he was under are also a lot more severe then the circumstances I
+circumstances he was under are also a lot more severe than the circumstances I
 was under in 2nd grade. Imagine going to recess and having everyone just beating
 each other up. Yeah sure it’s against the rules, but the recess duty isn’t
 paying attention or doing anything about it. Plus, the people who beat the most
 people up are getting rewarded with popularity and even some cash prizes! Maybe
 you’ve been raised in a strict anti-violence household and you’ll manage to
 abstain, but the kids who love to roughhouse are going to have a lot of trouble
-convincing themselves to stay out of it.
+convincing themselves to stay out of it. 
 
-Just try and put yourself in Lance Armstrong’s shoes for a minute. You’re an
+Try and put yourself in Lance Armstrong’s shoes for a minute. You’re an
 extremely driven young man, determined to prove yourself. You’re also insanely
-competitive, you would probably be willing to saw your kneecap off with a rusty
-butter knife if you thought that would help your chances of winning. So you’re
-working your ass off to be successful as a professional cyclist, but one day you
-find yourself in an environment where all the successful people are doping. What
-are you going to do? This is precisely the situation Levi Leipheimer found 
-himself in, which he stated when he publicly confessed to doping:
+competitive and you would be willing to saw your kneecaps off with a rusty
+butter knife if you thought that would improve your chances of winning. So
+you’re working your ass off to be successful as a professional cyclist, but one
+day you find yourself in an environment where all the successful people are
+doping. What are you going to do? This is precisely the situation Levi
+Leipheimer found himself in, which he talked about when he publicly confessed to
+doping:
 
 <blockquote>
 <p>
@@ -92,31 +93,39 @@ that was institutional.
 </p>
 </blockquote>
 
-Alright, enough about 2nd grade recess and professional cycling. The point I’m
+Alright, enough about professional cycling and 2nd grade recess. The point I’m
 trying to make here is that the people that make the worst mistakes are often
 the people who are in the worst situations. These people are often the victims
 just as much as they are the perpetrators. But these people are so easy to
 blame, and that’s exactly what the world does.
 
-Think about how the media portrays criminals. The headlines and the focus is on
-the things they’ve done wrong, not on what may have brought them to commit the
-crime. I’m not blaming the media for this—it would be pretty unrealistic to
-expect anything else—but overtime I think this approach desensitizes people. You
-hear about people shooting each other in Compton enough times and eventually
-you’re probably going to start thinking Compton must just be full of bad people.
-You start to think about how different the people in Compton must be from you,
-and how you are such a good person for not shooting anyone on your way to work
-this morning. You stop caring about Compton, maybe you even wish all those
-people would just disappear and stop causing so many problems for the world.
+Think about how the media portrays criminals. The headlines and the focus of the
+stories is on the things they’ve done wrong, not on what may have brought them
+to commit the crime. I’m not blaming the media for this—it would be pretty
+unrealistic to expect much more—but overtime I think this approach desensitizes
+people.
+
+Take Compton for example. If you hear about people shooting each other in
+Compton enough times then you’re probably going to start thinking Compton must
+just be full of bad people.  You start to think about how different the people
+in Compton must be from you, and how you are such a good person for not shooting
+anyone on your way to work this morning. You might stop caring about the people
+of Compton, maybe you even wish all those people would just disappear and stop
+causing so many problems for the world. But it’s not like everyone born in
+Compton is born a bad person. They just grow up in a difficult environment and
+it shapes their decisions.
 
 So what’s the solution? I think that as individuals, we can do a better job of
-understanding other people’s mistakes. The next time someone you know makes
+trying to understand each other’s mistakes. The next time someone you know makes
 a mistake, don’t hate them for it! Show some compassion and try and figure out
-what has led them to make the mistake. Focus on the source of the mistake, not
-the outcome it’s caused.
+what has led them to do it. Focus on the source of the mistake, not the outcome
+it has caused. I’m not saying people shouldn’t be punished for their mistakes;
+all I’m saying is that they should to be listened to. The best way to prevent
+the mistake in the future may be by trying to change the environment as a whole,
+not by just blaming the individuals who are a part of it.
 
 It’s so easy to hate Lance Armstrong right now. Like a lot of people, he was my
-hero. My (used to be) favorite Lance Armstrong quote is:
+hero and he let me down big time. My favorite Lance Armstrong quote used to be: 
 
 <blockquote>
 <p>
@@ -126,8 +135,8 @@ ass 6 hours a day. What are you on?”
 </p>
 </blockquote>
 
-It took me a long time to believe he had been lying and come to terms with the
-fact that he had cheated. Honestly, I’m still trying to come to terms with it
-and maybe I never will. But that doesn’t matter, what matters is that I’m not
+It took me a long time to believe he had been lying and to come to terms with
+the fact that he had cheated. Honestly, I’m still trying to come to terms with
+it and maybe I never will. But that doesn’t matter, what matters is that I’m not
 going to just give up on him. I’m going to keep working to understand him with
 the hope of someday being able to forgive him.
