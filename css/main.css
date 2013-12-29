@@ -259,5 +259,11 @@ ul.posts span {
 }
 
 .post blockquote {
-  font-style:italic;
+  border-left: 1px solid rgb(221,221,221);
+  margin-left: 15px;
+  color: rgb(104,104,104); 
 }
+
+.post blockquote p {
+  padding-left: 15px;
+

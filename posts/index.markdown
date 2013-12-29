@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Chip Jackson
+title: Posts 
 ---
 
 <div id="home">
-  <h2>Projects</h2>
+  <h2>Posts</h2>
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.categories.posts %}
       <li><span>{{ post.date | date: "%B %Y" }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>

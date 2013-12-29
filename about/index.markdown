@@ -15,7 +15,7 @@ questions, comments, feedback, or job opportunites!
 * <a href="http://www.linkedin.com/pub/chip-jackson/66/967/675/">LinkedIn</a>
 * <a href="https://github.com/chipjacks">Github</a>
 
-Beyond math and computer science, I love to run. I
+Besides math and computer science, I also love to run. I
 [compete](http://www.wwuvikings.com/sports/c-xc/mtt/jackson_chip00.html)
 for the WWU track and cross country teams.
 
