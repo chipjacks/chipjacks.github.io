@@ -10,9 +10,10 @@ I still believe in Lance Armstrong.
 This article isn’t really even about Lance Armstrong though; it’s more about
 second chances, about believing in people even when they make terrible mistakes.
 Because we’ve all made mistakes, and lots of them. Maybe you haven’t been
-shooting up on every PED you can find and making millions of dollars off of it,
-but if you think that makes you a better person then Lance Armstrong this
-article is going to challenge you to reconsider. 
+shooting up on every performance enhancing drug you can get your hands on and
+making millions of dollars off of it, but if you think that makes you a better
+person then Lance Armstrong this article is going to challenge you to
+reconsider. 
 
 What kind of mistakes have you made in your life? Personally, most of the
 mistakes I’ve made in the past seem pretty inevitable. Like the time at recess
