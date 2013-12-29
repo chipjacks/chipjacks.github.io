@@ -7,7 +7,7 @@ categories: posts
 
 I still believe in Lance Armstrong. 
 
-Yep, you read that right. You’re probably already loading up your potato canon
+Yep, you read that right. You’re probably already loading up your potato cannon
 with rotten vegetables, getting ready to paint me red with tomato juice. And
 that’s fine, I understand that. All I’m asking is that before you shoot that
 thing at me, you finish this article. Because it’s not really even about Lance
@@ -121,13 +121,13 @@ everyone born in Compton is born a bad person. They just grow up in a difficult
 environment and it shapes their decisions.
 
 I’m not saying these people shouldn’t be held accountable and punished for their
-crimes. What I am saying is that as individuals, we can do a better job of
-trying to understand each other’s mistakes. The next time someone you know makes
-a mistake, don’t hate them for it! Show some compassion and try and figure out
-what has led them to do it. Focus on the source of the mistake, not the outcome
-it has caused. The best way to prevent the mistake in the future may be by
-trying to change the environment as a whole, not by just blaming the individuals
-who are a part of it.
+crimes. What I’m saying is that as individuals, we can do a better job of trying
+to understand each other’s mistakes. The next time someone you know makes a
+mistake or does something you disagree with, don’t hate them for it! Show some
+compassion and try and figure out what has led them to do it. Focus on the
+source of the mistake, not the outcome it has caused. The best way to prevent
+the mistake in the future may be by trying to change the environment as a whole,
+not by just blaming the individuals who are a part of it.
 
 It’s so easy to hate Lance Armstrong right now. He was my hero and he let me
 down big time. My favorite Lance Armstrong quote used to be: 
