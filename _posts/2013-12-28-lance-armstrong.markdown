@@ -10,9 +10,9 @@ I still believe in Lance Armstrong.
 This article isn’t really even about Lance Armstrong though; it’s more about
 second chances, about believing in people even when they make terrible mistakes.
 Because we’ve all made mistakes, and lots of them. Maybe you haven’t been
-cheating and making millions of dollars off of it, but if you think that makes
-you a better person then Lance Armstrong this article is going to challenge you
-to reconsider. 
+shooting up on every PED you can find and making millions of dollars off of it,
+but if you think that makes you a better person then Lance Armstrong this
+article is going to challenge you to reconsider. 
 
 What kind of mistakes have you made in your life? Personally, most of the
 mistakes I’ve made in the past seem pretty inevitable. Like the time at recess
@@ -120,7 +120,7 @@ trying to understand each other’s mistakes. The next time someone you know mak
 a mistake, don’t hate them for it! Show some compassion and try and figure out
 what has led them to do it. Focus on the source of the mistake, not the outcome
 it has caused. I’m not saying people shouldn’t be punished for their mistakes;
-all I’m saying is that they should to be listened to. The best way to prevent
+all I’m saying is that they should be listened to. The best way to prevent
 the mistake in the future may be by trying to change the environment as a whole,
 not by just blaming the individuals who are a part of it.
 

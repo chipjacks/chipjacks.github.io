@@ -8,7 +8,7 @@ categories: projects
 [Rhinolog.net](http://www.rhinolog.net/) was the result of an independent summer
 project. The overall design goal was to build something that was quick, simple,
 and easy to use. It also featured the ability to be able to log runs by sending
-an SMS text message, for those users who may not have a smartphone yet. 
+a text message, for those users who may not have a smartphone yet. 
 
 <div id="figure" align="center">
   <img src="/images/rhinolog_screenshot.png" width="90%">
