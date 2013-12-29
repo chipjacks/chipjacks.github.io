@@ -121,9 +121,9 @@ everyone born in Compton is born a bad person. They just grow up in a difficult
 environment and it shapes their decisions.
 
 I’m not saying these people shouldn’t be held accountable and punished for their
-crimes. What I’m saying is that as individuals, we can do a better job of trying
-to understand each other’s mistakes. The next time someone you know makes a
-mistake, don’t hate them for it! Show some compassion and try and figure out
+crimes. What I am saying is that as individuals, we can do a better job of
+trying to understand each other’s mistakes. The next time someone you know makes
+a mistake, don’t hate them for it! Show some compassion and try and figure out
 what has led them to do it. Focus on the source of the mistake, not the outcome
 it has caused. The best way to prevent the mistake in the future may be by
 trying to change the environment as a whole, not by just blaming the individuals
