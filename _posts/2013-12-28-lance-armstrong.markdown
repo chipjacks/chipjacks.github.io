@@ -144,3 +144,4 @@ brought himself to threaten and sue people who told the truth about him. But
 that doesn’t matter, what matters is that I’m not going to just give up on him.
 I’m going to keep working to understand him with the hope of someday being able
 to forgive him.
+    
