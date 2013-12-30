@@ -9,21 +9,21 @@ I still believe in Lance Armstrong.
 
 Yep, you read that right. You’re probably already loading up your potato cannon
 with rotten vegetables, getting ready to paint me red with tomato juice. And
-that’s fine, I understand that. All I’m asking is that before you shoot that
-thing at me, you finish this article. Because it’s not really even about Lance
-Armstrong; it’s about not judging someone by a headline and about believing in
-people even when they make terrible mistakes. Maybe you haven’t been shooting up
-on every performance enhancing drug you can get your hands on and making
-millions of dollars by lying about it, but if you think that makes you a better
-person then Lance Armstrong, this article is going to challenge you to
-reconsider.
+that’s fine, I understand that and I like tomato juice anyway. But before you
+shoot that thing at me please just finish this article. Because it’s not really
+even about Lance Armstrong; it’s about not judging someone by a headline and
+about believing in people even when they make terrible mistakes. Maybe you
+haven’t been shooting up on every performance enhancing drug you can get your
+hands on and making millions of dollars by lying about it, but if you think that
+makes you a better person then Lance Armstrong, this article is going to
+challenge you to reconsider.
 
 What kind of mistakes have you made in your life? Personally, most of the
 mistakes I’ve made in the past seem pretty inevitable. Like the time at recess
 in 2nd grade when I beat up a kid because my friend told me to. Seems ridiculous
 now, but at the time I’d been watching some violent movies and hanging around
 some violent friends and it seemed like the right thing to do. My environment
-had twisted my morals.  
+had twisted my morals.
 
 The mistakes Lance Armstrong has made are a long shot from beating someone up in
 2nd grade. As a grown man, he has a responsibility to build and maintain strong
@@ -121,13 +121,11 @@ everyone born in Compton is born a bad person. They just grow up in a difficult
 environment and it shapes their decisions.
 
 I’m not saying these people shouldn’t be held accountable and punished for their
-crimes. What I’m saying is that as individuals, we can do a better job of trying
-to understand each other’s mistakes. The next time someone you know makes a
-mistake or does something you disagree with, don’t hate them for it! Show some
-compassion and try and figure out what has led them to do it. Focus on the
-source of the mistake, not the outcome it has caused. The best way to prevent
-the mistake in the future may be by trying to change the environment as a whole,
-not by just blaming the individuals who are a part of it.
+crimes. What I am saying is that as individuals, we can do a better job of
+trying to understand each other’s mistakes. Hating someone for making a mistake
+or doing something you disagree with isn’t going to help anything. What will
+help is showing compassion and trying to figure out what led them to do it. The
+focus needs to be on the underlying causes, not the individual or the outcome.
 
 It’s so easy to hate Lance Armstrong right now. He was my hero and he let me
 down big time. My favorite Lance Armstrong quote used to be: 
