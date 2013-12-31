@@ -19,11 +19,11 @@ makes you a better person then Lance Armstrong, this article is going to
 challenge you to reconsider.
 
 What kind of mistakes have you made in your life? Personally, most of the
-mistakes I’ve made in the past seem pretty inevitable. Like the time at recess
-in 2nd grade when I beat up a kid because my friend told me to. Seems ridiculous
-now, but at the time I’d been watching some violent movies and hanging around
-some violent friends and it seemed like the right thing to do. My environment
-had twisted my morals.
+mistakes I’ve made seem pretty inevitable. Like the time at recess in 2nd grade
+when I beat up a kid because my friend told me to. Seems ridiculous now, but at
+the time I’d been watching some violent movies and hanging around some violent
+friends and it seemed like the right thing to do. My environment had twisted my
+morals.
 
 The mistakes Lance Armstrong has made are a long shot from beating someone up in
 2nd grade. As a grown man, he has a responsibility to build and maintain strong
