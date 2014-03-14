@@ -17,7 +17,7 @@ the tree of pages that you have visited during your browsing session, whereas
 histree will display all the branches.
 
 To get a better idea of what I’m talking about, lets look at an example. Lets
-suppose you are looking for a new bike on craigslist. So you bring up the
+suppose you are looking for a new bike on craigslist, so you bring up the
 bicycles page of craigslist and start looking through the listings. At this
 point your back button menu will look like:
 
