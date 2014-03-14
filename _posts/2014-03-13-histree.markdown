@@ -71,3 +71,8 @@ to get all the kinks ironed out so that it is something that people will find
 useful and truly enjoy using. If you would like to help me test it and provide
 feedback, or just try it out, you are welcome to download it
 [here](/assets/histree.crx).
+
+Note: Since it histree not in the Chrome Webstore yet, in order to install it,
+you will need to download the [histree.crx](/assets/histree.crx) file, and then
+drag and drop it into your Chrome Extensions page at
+[chrome://extensions/](chrome://extensions).
