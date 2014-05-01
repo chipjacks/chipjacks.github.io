@@ -15,7 +15,7 @@ even about Lance Armstrong; it’s about not judging someone by a headline and
 about believing in people even when they make terrible mistakes. Maybe you
 haven’t been shooting up on every performance enhancing drug you can get your
 hands on and making millions of dollars by lying about it, but if you think that
-makes you a better person then Lance Armstrong, this article is going to
+makes you a better person than Lance Armstrong, this article is going to
 challenge you to reconsider.
 
 What kind of mistakes have you made in your life? Personally, most of the
