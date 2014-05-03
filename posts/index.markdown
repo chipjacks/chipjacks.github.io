@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Posts 
+title: "Posts"
 ---
 
 <div id="home" class="content">
