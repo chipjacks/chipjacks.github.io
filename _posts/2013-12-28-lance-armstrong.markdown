@@ -2,6 +2,8 @@
 layout: post
 title:  "I Still Believe in Lance Armstrong"
 date: 2013-12-28
+snippet: "On not judging someone by a headline and on believing in people even
+when they make terrible mistakes."
 categories: posts
 ---
 

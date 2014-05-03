@@ -2,6 +2,8 @@
 layout: post
 title:  "The Anatomy of a Perl Program"
 date: 2014-3-12
+snippet: "A poster detailing some of the common features and characteristics of
+a perl program."
 categories: projects
 ---
 

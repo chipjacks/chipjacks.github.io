@@ -2,6 +2,8 @@
 layout: post
 title:  "The Linear Algebra Behind PageRank"
 date: 2013-12-23
+snippet: "Explanation of the PageRank algorithm and the linear algebra and graph
+theory behind it."
 categories: projects
 ---
 

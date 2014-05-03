@@ -7,19 +7,14 @@
 /* Global Reset */
 
 html {
-  background-color: Gainsboro;
+  background-color: rgb(115,117,119);
+	font: lighter 15px/1.5 'Oxygen', sans-serif;
 }
 
 body {
   width:680px;
-  background-color: White;
   margin-right:auto;
   margin-left:auto;
-}
-
-body {
-  color: rgb(68, 68, 68);
-  font: lighter 14px/1.5 'Poly',georgia,serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top:15px;
+  margin-top:20px;
   margin-bottom:20px;
 }
 
@@ -73,36 +68,76 @@ a:visited { color: #996699; }
   border-color: gainsboro;
 }
 
+.content {
+	background-color: white;
+	border-radius: 10px;
+	overflow:hidden;
+  padding:0 40px;
+}
 
+.page-title {
+	margin: 0px -40px;
+	padding: 25px 40px;
+	font-size: 30px;
+	background-color: gainsboro;
+}
+
+.post-title {
+	margin: 0px -40px;
+	padding: 40px 40px 5px;
+	font-size: 35px;
+}
+
+.post-date {
+  display:inline-block;
+  color: #aaa;
+}
 
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
-#home {
-  padding:0 40px;
+#home .list-title {
+	margin: 0px -40px;
+	padding: 25px 40px;
+	font-size: 30px;
+	background-color: gainsboro;
 }
 
 #home ul {
-  margin-top: 25px;
-  margin-bottom: 40px;
+	margin: 0px;
+	padding-left: 0px;
 }
 
 #home li {
   list-style-type: none;
-  margin-top: 15px;
-  margin-bottom: 15px;
+	margin: 0px -40px;
+	padding: 0px 40px;
+	cursor: pointer;
 }
 
-ul.posts {
+#home li:hover {
+	background: #EfEfEf;
 }
 
-ul.posts li {
-  
+
+ul .pl-title {
+	float: left;
+	font-size: 20px;
+	max-width: 450px;
+	padding: 30px 0px 10px 0px;
 }
 
-ul.posts span {
+ul .pl-date {
+	padding-top: 30px;
+	float: right;
+}
+
+ul .pl-snippet {
+	clear: both;
+	padding: 0px 0px 20px 0px;
+	color: #666666; 
 }
 
 /*****************************************************************************/
@@ -129,18 +164,16 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-.site {
-}
-
 .site .header {
-	background:Gainsboro;
-	height: 100px;
+  background: rgb(115,117,119);
+	height: 150px;
 	display:block;
-	padding: 0px 40px 20px;
 }
 
-.site .header .logo {
+.site .header #logo {
   display:inline-block;
+	padding-top: 5px;
+	height: 100px;
   float:left;
 }
 
@@ -148,64 +181,45 @@ ul.posts span {
   text-decoration: none;
 }
 
-.site .header h1.title {
-  display: inline-block;
-  font-size:40px;
-  margin-top:25px;
-  margin-left: -10px;
+.footer {
+	color: #222222;
+}
+.footer #license {
+	color: #222222;
 }
 
-.site .header h1.title a {
-  color: Black;
+.navigation {
+	float: right;
 }
 
-.site .header h1.title a:hover {
-  color: #000;
+.navigation ul {
+	list-style-type: none;
+	text-align: right;
+	color: black;
+	letter-spacing:1px;
 }
 
-.site .header a.extra {
-  font-size: 20px;
-  color: #aaa;
-  float:right;
-  margin-left: 40px;
-  margin-top:  45px;
-  font-family:helvetica,sans-serif;
+.navigation li {
+	padding: 5px;
+	font-size: 18px;
 }
 
-.site .header a.extra:hover {
-  color: #000;
+.navigation a {
+	color: #222222; 
 }
 
-.site .header .navigation {
-  display:inline-block;
-  float:right;
+.navigation a:hover {
+	text-decoration: underline;
 }
 
-.site .meta {
-  display:inline-block;
-  color: #aaa;
-  margin-bottom:30px;
-  padding-bottom:5px;
+.navigation a.active {
+	text-decoration: underline;
 }
 
 .footer {
-  background-color:Gainsboro;
-  padding:40px 40px 0;
+  background: rgb(115,117,119);
+  padding:20px 40px 10px;
   text-align:center;
-  color: rgb(153, 153, 153);
-}
-
-.footer li {
-  display:inline-block;
-  padding-right:30px;
-}
-
-.site .footer .rss {
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
 }
 
 /*****************************************************************************/
@@ -213,6 +227,10 @@ ul.posts span {
 /* Posts
 /*
 /*****************************************************************************/
+
+.post {
+	background-color: white;
+}
 
 /* standard */
 .post pre {

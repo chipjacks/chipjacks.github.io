@@ -20,6 +20,6 @@ Besides math and computer science, I also love to run. I
 for the WWU track and cross country teams.
 
 This blog was built using <a href="http://jekyllrb.com/">Jekyll</a> and
-deployed using <a href="http://pages.github.com/">Github Pages</a>. The
-general layout and design were copied from <a href="http://rsms.me/">this
-guys' blog</a>.
+deployed using <a href="http://pages.github.com/">Github Pages</a>.
+
+

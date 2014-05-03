@@ -2,6 +2,7 @@
 layout: post
 title:  "COMAP Mathematical Contest in Modeling"
 date: 2012-06-20
+snippet: "Algorithm for scheduling rafting trips between campsites along a river."
 categories: projects
 ---
 

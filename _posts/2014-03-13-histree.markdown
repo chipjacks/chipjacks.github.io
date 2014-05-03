@@ -2,6 +2,8 @@
 layout: post
 title:  "histree - a Google Chrome Extension"
 date: 2014-3-13
+snippet: "An enhanced back button menu that allows you to visualize and navigate
+all the branches of your browsing history."
 categories: projects
 ---
 

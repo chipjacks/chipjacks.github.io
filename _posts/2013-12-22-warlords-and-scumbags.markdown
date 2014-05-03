@@ -2,6 +2,8 @@
 layout: post
 title:  "Warlords and Scumbags Card Game"
 date: 2013-12-22
+snippet: "Client and server applications for playing the Warlords and Scumbags
+card game (aka Presidents and Assholes) over a network."
 categories: projects
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Rhinolog.net – a Simple Online Running Training Log"
+title: "Rhinolog.net – an Online Training Log for Runners"
 date: 2012-09-20
+snippet: "Independently built Ruby-on-Rails webapp for quick and simple mileage
+logging, incuding support for logging runs via SMS text."
 categories: projects
 ---
 

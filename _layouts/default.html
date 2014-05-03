@@ -8,9 +8,15 @@
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
+				<!-- Fonts -->
+				<link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+				<link href='http://fonts.googleapis.com/css?family=Asap' rel='stylesheet' type='text/css'>
+				<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet' type='text/css'>
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+
+				<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
         <!-- Google Analytics -->
 <script>
@@ -22,6 +28,12 @@
   ga('create', 'UA-46749185-1', 'chipjacks.com');
   ga('send', 'pageview');
 
+	function hl_active() {
+	 	var path = window.location.pathname.split("/")[1];
+		document.getElementById(path + "-nav").className += "active";
+	}
+	window.onload = hl_active;
+
 </script>
     </head>
     <body>
@@ -29,19 +41,23 @@
         <div class="site">
           <div class="header">
             <div class="logo">
-              <img href="/" src="/images/logo.png" width="200px" style="padding-top: 10px;">
+							<a href="/projects">
+								<img id="logo" src="/images/logo.png">
+							</a>
             </div>
-            <div class-"navigation">
-              <a class="extra" href="/about">About</a>
-              <a class="extra" href="/posts">Posts</a>
-              <a class="extra" href="/projects">Projects</a>
+            <div class="navigation">
+							<ul>
+								<li><a id="projects-nav" href="/projects">Projects</a></li>
+								<li><a id="posts-nav"href="/posts">Posts</a></li>
+								<li><a id="about-nav" href="/about">About</a></li>
+							</ul>
             </div>
           </div>
 
           {{ content }}
 
           <div class="footer">
-            This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons License</a>
+            This work is licensed under a <a id="license" rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons License</a>
           </div>
         </div>
 
