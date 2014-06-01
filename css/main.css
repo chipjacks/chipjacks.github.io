@@ -7,8 +7,8 @@
 /* Global Reset */
 
 html {
-  background-color: rgb(115,117,119);
-	font: lighter 15px/1.5 'Oxygen', sans-serif;
+   /*background-color: rgb(115,117,119);*/
+	font: 16px/1.5 'Avenir', 'Oxygen', sans-serif;
 }
 
 body {
@@ -77,9 +77,10 @@ a:visited { color: #996699; }
 
 .page-title {
 	margin: 0px -40px;
-	padding: 25px 40px;
-	font-size: 30px;
-	background-color: gainsboro;
+	padding: 10px 40px;
+	padding-top: 40px;
+	font-size: 35px;
+	/*background-color: gainsboro;*/
 }
 
 .post-title {
@@ -101,8 +102,8 @@ a:visited { color: #996699; }
 #home .list-title {
 	margin: 0px -40px;
 	padding: 25px 40px;
-	font-size: 30px;
-	background-color: gainsboro;
+	font-size: 35px;
+	/*background-color: gainsboro;*/
 }
 
 #home ul {
@@ -165,7 +166,7 @@ ul .pl-snippet {
 /*****************************************************************************/
 
 .site .header {
-  background: rgb(115,117,119);
+  /*background: rgb(115,117,119);*/
 	height: 150px;
 	display:block;
 }
@@ -174,6 +175,7 @@ ul .pl-snippet {
   display:inline-block;
 	padding-top: 5px;
 	height: 100px;
+	text-align:center;
   float:left;
 }
 
@@ -183,9 +185,10 @@ ul .pl-snippet {
 
 .footer {
 	color: #222222;
+	font-size: 14px;
 }
 .footer #license {
-	color: #222222;
+	/*color: #222222;*/
 }
 
 .navigation {
@@ -217,7 +220,7 @@ ul .pl-snippet {
 }
 
 .footer {
-  background: rgb(115,117,119);
+  /*background: rgb(115,117,119);*/
   padding:20px 40px 10px;
   text-align:center;
 }
