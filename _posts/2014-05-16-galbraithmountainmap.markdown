@@ -16,6 +16,3 @@ categories: projects
 Check out this poster for a quick preview of the coming
 GalbraithMountainMap.com. Planned release is early June, check back here for
 updates!
-
-I'm starting to feel like I should start looking into a career in graphic design
-with all the posters I've been building...
