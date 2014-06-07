@@ -15,4 +15,7 @@ categories: projects
 
 Check out this poster for a quick preview of the coming
 GalbraithMountainMap.com. Planned release is early June, check back here for
-updates!
+updates.
+
+Update: [galbraithmountainmap.com](http://www.galbraithmountainmap.com/) is now
+live!
