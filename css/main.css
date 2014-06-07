@@ -12,9 +12,8 @@ html {
 }
 
 body {
-  width:680px;
-  margin-right:auto;
-  margin-left:auto;
+  width:100%;
+	margin: 0px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -165,19 +164,34 @@ ul .pl-snippet {
 /*
 /*****************************************************************************/
 
-.site .header {
+.site {
+	width: 680px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.inner-header {
   /*background: rgb(115,117,119);*/
 	height: 150px;
 	display:block;
+	width: 680px;
+  margin-right:auto;
+  margin-left:auto;
 }
 
-.site .header #logo {
+.inner-header #logo {
   display:inline-block;
 	padding-top: 5px;
+	padding-left: 25px;
 	height: 100px;
 	text-align:center;
   float:left;
 }
+
+.header {
+	background: rgb(115,117,119);
+}
+
 
 .site .header a {
   text-decoration: none;
@@ -193,6 +207,7 @@ ul .pl-snippet {
 
 .navigation {
 	float: right;
+	padding-right: 20px;
 }
 
 .navigation ul {
@@ -203,8 +218,8 @@ ul .pl-snippet {
 }
 
 .navigation li {
-	padding: 5px;
-	font-size: 18px;
+	padding: 13px;
+	font-size: 20px;
 }
 
 .navigation a {
