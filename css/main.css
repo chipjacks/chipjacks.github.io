@@ -9,6 +9,7 @@
 html {
    /*background-color: rgb(115,117,119);*/
 	font: 16px/1.5 'Avenir', 'Oxygen', sans-serif;
+	min-width: 680px;
 }
 
 body {
