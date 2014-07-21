@@ -84,7 +84,7 @@ together, but its still not as polished as I would like it to be. Rather than
 having seperate histree's for each tab, I've know unified them all into one
 histree that is accessible from any tab. Beware of bugs and slow performance
 when the histree grows too large. Feel free to check out the code on
-[github](https://github.com/chipjacks/histree) or download this (.zip
-file)[/assets/histree_v2.zip] that contains a working version which can be
+[github](https://github.com/chipjacks/histree) or download this [.zip
+file](/assets/histree_v2.zip) that contains a working version which can be
 installed in Chrome by visiting the Chrome extensions page, enabling developer
 mode, and then loading the unpacked zip file.
