@@ -7,6 +7,9 @@ all the branches of your browsing history."
 categories: projects
 ---
 
+[Now available](https://chrome.google.com/webstore/detail/histree/jpmpfncmchplmkhhchlajpiikaabmmmh)
+on the Chrome Web Store! 
+
 <div id="figure" align="center">
   <img src="/images/histree_title.png" width="95%">
 </div>
