@@ -68,26 +68,3 @@ harder to decipher its different branches. Luckily, you can always just follow
 the green line that shows up when you highlight a link to find what branch a
 given page is a part of.
 
-Currently, histree is in the alpha stages of development and is not yet
-available on the Chrome Web Store. As far as I’ve had time to test it,
-everything looks to be working but it is not yet as smooth and polished as I
-would like. I really have high hopes for histree, and I have been working hard
-to get all the kinks ironed out so that it is something that people will find
-useful and truly enjoy using. If you would like to help me test it and provide
-feedback, or just try it out, you are welcome to download it
-[here](/assets/histree.crx).
-
-Note: Since it histree not in the Chrome Webstore yet, in order to install it,
-you will need to download the [histree.crx](/assets/histree.crx) file, and then
-drag and drop it into your Chrome Extensions page at
-[chrome://extensions/](chrome://extensions).
-
-Update 6/20/2014: The development effort continues! Things are starting to come
-together, but its still not as polished as I would like it to be. Rather than
-having seperate histree's for each tab, I've now unified them all into one
-histree that is accessible from any tab. Beware of bugs and slow performance
-when the histree grows too large. Feel free to check out the code on
-[github](https://github.com/chipjacks/histree) or download this [.zip
-file](/assets/histree_v2.zip) that contains a working version which can be
-installed in Chrome by visiting the Chrome extensions page, enabling developer
-mode, and then loading the unpacked zip file.
