@@ -12,9 +12,6 @@ mathematics and computer science.
 This blog is intended to be a place for me to publish my work and
 share things I learn.
 
-The intimate personal details: I like to eat pizza, my favorite color is blue,
-and I've been to Hawaii before. Also, I like to run.
-
 Feel free to contact me with any questions, comments, or feedback!
 
 * <a href="mailto:chipjacks@gmail.com">chipjacks@gmail.com</a>
