@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Rhinolog.net – an Online Training Log for Runners"
+title: "Rhinolog – an Online Training Log for Runners"
 date: 2012-09-20
 snippet: "Independently built Ruby-on-Rails webapp for quick and simple mileage
 logging, incuding support for logging runs via SMS text."
 categories: projects
 ---
 
-[Rhinolog.net](http://www.rhinolog.net/) was the result of an independent summer
+[Rhinolog](http://rhino-log.herokuapp.com/) was the result of an independent summer
 project. The overall design goal was to build something that was quick, simple,
 and easy to use. It also featured the ability to be able to log runs by sending
 a text message, for those users who may not have a smartphone yet. 
@@ -23,4 +23,4 @@ AJAX, Javascript, jQuery, Coffeescript, PostgreSQL, JSON, XML, Twilio, Ruby,
 Rails… I hadn’t even heard of most of those before I started the project, so I
 was proud of myself for sticking with it and finishing it.
 
-Checkout the code on [GitHub](https://github.com/chipjacks/rhinolog)!
+You can try it out [here](http://rhino-log.herokuapp.com/) or view the code on [GitHub](https://github.com/chipjacks/rhinolog).
