@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Dirable"
-date: 2018-03-02
-snippet: "An ActiveRecord inspired library for persisting objects straight to the filesystem"
+date: 2018-02-10
+snippet: "An ActiveRecord inspired library for persisting objects straight to the filesystem."
 categories: projects
 ---
 
@@ -14,7 +14,7 @@ phone number in the database.
 
 But what if you don't even want a database? What if you'd rather just stick all
 your juicy data right in plain old files and directories, where anyone can
-easily browse and update them? Then you don't even need a web server with
+easily browse and update it? Then you don't even need a web server with
 routes and controllers and views! People can just use a file browser to do all
 that.  Want a list of users? Easy, that's just `ls users`. Want a list of user
 phone numbers? That's gonna be `cat users/*/phone_number`. Want to update a
