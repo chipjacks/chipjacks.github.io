@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Dirable"
+date: 2018-03-02
+snippet: "An ActiveRecord inspired library for persisting objects straight to the filesystem"
+categories: projects
+---
+
+
+ActiveRecord is great! There's something deeply satisfying about typing
+`User.all` and having that just pull all the users from a database. Or
+typing `user.phone_number = "555-5555"` and `user.save` to update a users
+phone number in the database.
+
+But what if you don't even want a database? What if you'd rather just stick all
+your juicy data right in plain old files and directories, where anyone can
+easily browse and update them? Then you don't even need a web server with
+routes and controllers and views! People can just use a file browser to do all
+that.  Want a list of users? Easy, that's just `ls users`. Want a list of user
+phone numbers? That's gonna be `cat users/*/phone_number`. Want to update a
+phone number? Easy peasy, just do `echo 555-5555 >>
+users/gertrude/phone_number`. Slick!
+
+Or at least that was the idea that inspired `Dirable`. It allowed me to quickly
+bootstrap a Ruby application that just needed to move some files around and
+keep track of some state alongside them. I also wanted people to be able to
+access and update the state manually but it felt overkill to setup a
+database and a web interface just for that purpose.
+
+Check out the code on [GitHub](https://github.com/chipjacks/dirable)! Its
+designed so that you can easily plug in your own Ruby class to talk to a remote
+filesystem such as HDFS or S3 or whatever your heart may desire!
