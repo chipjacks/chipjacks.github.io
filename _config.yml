@@ -1,3 +1,3 @@
 name: Chip Jackson
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
