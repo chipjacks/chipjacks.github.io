@@ -3,7 +3,7 @@ layout: about
 title: "About"
 ---
 
-<img src="/images/profile_pic.png" width="40%" align="right"/>
+<img src="/images/profile_pic.jpg" width="40%" align="right"/>
 Hi, I'm Chip. Thanks for checking out my website! I hope you have found
 something here interesting or useful.
 
