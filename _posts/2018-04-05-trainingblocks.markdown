@@ -24,7 +24,7 @@ send a text message to record a run so you didn’t have to pull out your
 computer just to record that you ran 5 miles. It all felt pretty innovative at the
 time.
 
-Fast-forward 5 years and training log systems have evolved considerably. Most
+Fast-forward 5 years and things have evolved considerably. Most
 runners wear GPS watches and then upload their training to services like
 Garmin, Strava, RunKeeper, etc. This relieves some of the annoyance of having
 to manually record your training and provides you with a lot more details.
@@ -64,7 +64,7 @@ tools that make sense when viewing your training from a wider perspective.
 And then there’s the social aspect of training. It’s a lot more enjoyable to
 be able to share your journey with other people, even when things aren’t
 going great. Gathering “likes” is fun but can be disheartening if you start
-to notice how many more likes some else is getting. The same can be said
+to notice how many more someone else is getting. The same can be said
 about comparing your fitness levels with someone else’s. So that’s why
 Training Blocks will seek to hide the metrics that are commonly used for
 making comparisons when you share parts of your training with a wider
@@ -73,7 +73,7 @@ you’re trying to go with it. Things like what sorts of workouts and races
 you're planning and how you're measuring up against your goals. The idea is to
 put more emphasis on the intrinsic aspects of training that provide
 sustainable joy and motivation over the long term. Training Blocks is
-intended to be a supportive platform that helps you save your
+intended to be a supportive platform that encourages you to save your
 competitive instincts for race day.
 
 So those are some of the ideas bouncing around in my head. I’d be curious to
