@@ -49,17 +49,17 @@ easier to visually parse than a string of text. Additional icons can be used
 to indicate things like hill workouts, which skew the pace of your run, or
 cross training, which has no pace at all, only duration.
 
-Going forward, I have many more ideas on how the platform can grow to
-incorporate more aspects. For example, one of the most important
-things to keep track of in training is what your goals are and how you're
-stacking up against them. If you’re goals are too extreme, you’ll fall apart
-trying to chase them. Or if they’re too modest or non-existent, you can
-become disengaged and fail to meet your full potential. Training Blocks
-could use colored blocks to help you calibrate. By setting goals using orange
-blocks, and comparing them to actual performances in blue, you can maximize
-the overlapping green. This allows you a lot more flexibility than just
-setting weekly mileage goals, while maintaining the simple visualization
-tools that make sense when viewing your training from a wider perspective.
+Going forward, I have many more ideas on how the platform can grow. For
+example, one of the most important things to keep track of in training is
+what your goals are and how you're stacking up against them. If you’re goals
+are too extreme, you’ll fall apart trying to chase them. Or if they’re too
+modest or non-existent, you can become disengaged and fail to meet your full
+potential. Training Blocks could use colored blocks to help you calibrate. By
+setting goals using orange blocks, and comparing them to actual performances
+in blue, you can maximize the overlapping green. This allows you a lot more
+flexibility than just setting weekly mileage goals, while maintaining the
+simple visualization tools that make sense when viewing your training from a
+wider perspective.
 
 And then there’s the social aspect of training. It’s a lot more enjoyable to
 be able to share your journey with other people, even when things aren’t
