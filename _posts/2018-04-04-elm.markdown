@@ -6,7 +6,9 @@ snippet: "Some opinions on Elm language after using it to build a web front-end.
 categories: posts
 ---
 
-I recently had the opportunity to build a [web front-end](http://trainingblock.net/) using [Elm](http://elm-lang.org/). Here are a few of my thoughts on the experience.
+I recently had the opportunity to build a [web
+front-end](http://trainingblocks.co/) using [Elm](http://elm-lang.org/). Here
+are a few of my thoughts on the experience.
 
 **Sometimes a smaller ecosystem is a good thing.** In a larger ecosystem, I
 find myself spending most of my time searching for pre-built solutions and
