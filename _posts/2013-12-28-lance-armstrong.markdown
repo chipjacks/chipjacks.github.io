@@ -1,31 +1,28 @@
 ---
 layout: post
-title:  "I Still Believe in Lance Armstrong"
+title:  "I Still Believe Lance Armstrong"
 date: 2013-12-28
-snippet: "On not judging someone by a headline and on believing in people even
+snippet: "On not judging someone by a headline and on forgiving people even
 when they make terrible mistakes."
 categories: posts
 ---
 
 I still believe in Lance Armstrong. 
 
-Yep, you read that right. You’re probably already loading up your potato cannon
-with rotten vegetables, getting ready to paint me red with tomato juice. And
-that’s fine, I understand that and I like tomato juice anyway. But before you
-shoot that thing at me please just finish this article. Because it’s not really
-even about Lance Armstrong; it’s about not judging someone by a headline and
-about believing in people even when they make terrible mistakes. Maybe you
-haven’t been shooting up on every performance enhancing drug you can get your
-hands on and making millions of dollars by lying about it, but if you think that
-makes you a better person than Lance Armstrong, this article is going to
-challenge you to reconsider.
+Yep, you read that right. You’re probably already getting ready to close this
+page. To write me off. Well that reaction is exactly what this article is
+about! It’s about not judging someone by a headline and about
+forgiving people even when they make terrible mistakes. Maybe you haven’t
+been shooting up on performance enhancing drugs and making millions of
+dollars by lying about it, but if you think that makes it okay to hate on
+anyone who has, this article is going to challenge you to reconsider.
 
 What kind of mistakes have you made in your life? Personally, most of the
-mistakes I’ve made seem pretty inevitable. Like the time at recess in 2nd grade
-when I beat up a kid because my friend told me to. Seems ridiculous now, but at
-the time I’d been watching some violent movies and hanging around some violent
-friends and it seemed like the right thing to do. My environment had twisted my
-morals.
+mistakes I’ve made seem pretty stupid in hindsight but at the time they made
+so much sense! Like the time at recess in 2nd grade when I punched a kid
+because my friend told me to. Seems ridiculous now, but at the time I’d been
+watching some violent movies and hanging around some violent friends and it
+seemed like the right thing to do. My environment had twisted my morals.
 
 The mistakes Lance Armstrong has made are a long shot from beating someone up in
 2nd grade. As a grown man, he has a responsibility to build and maintain strong
@@ -112,16 +109,6 @@ to commit the crime. I’m not blaming the media for this—it would be pretty
 unrealistic to expect much more—but overtime I think this approach desensitizes
 people.
 
-Take Compton for example. If you hear about people shooting each other in
-Compton enough times on the news, then you’re probably going to start thinking
-Compton must just be full of bad people.  You start to think about how different
-the people in Compton must be from you, and how you are such a good person for
-not shooting anyone on your way to work this morning. You might stop caring
-about the people of Compton, maybe you even wish all those people would just
-disappear and stop causing so many problems for the world. But it’s not like
-everyone born in Compton is born a bad person. They just grow up in a difficult
-environment and it shapes their decisions.
-
 I’m not saying these people shouldn’t be held accountable and punished for their
 crimes. What I am saying is that as individuals, we can do a better job of
 trying to understand each other’s mistakes. Hating someone for making a mistake
@@ -143,7 +130,8 @@ ass 6 hours a day. What are you on?”
 It took me a long time to believe he had been lying and to come to terms with
 the fact that he had cheated. I still can’t even begin to understand how he
 brought himself to threaten and sue people who told the truth about him. But
-that doesn’t matter, what matters is that I’m not going to just give up on him.
-I’m going to keep working to understand him with the hope of someday being able
-to forgive him.
-    
+the point is I'm not going to let myself just jump to hatred! I'm gonna let
+the story finish. I'm going to still look for and appreciate the good in him,
+even when the news is only filled with the bad. We're all complicated
+people, we all make mistakes, and we all deserve to be seen from a wider
+perspective than one headline allows.
