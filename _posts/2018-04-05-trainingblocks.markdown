@@ -36,7 +36,7 @@ without being able to produce many meaningful or actionable insights from
 it. At the very least I’d like to be able to easily identify patterns and
 trends in my training, beyond just the changes in weekly mileage.
 
-So that’s where [Training Blocks](http://trainingblocks.co/) comes in. Its
+So that’s where [Training Blocks](http://www.trainingblocks.co/) comes in. Its
 goal is to be a better way to visualize and understand your training. Forget
 scrolling through tables filled with numbers and logs filled with text. That
 makes it next to impossible to make much sense of your training on a larger
@@ -78,7 +78,7 @@ competitive instincts for race day.
 
 So those are some of the ideas bouncing around in my head. I’d be curious to
 hear from other runners to see how I can adapt [Training
-Blocks](http://trainingblocks.co/) to better serve them. While it
+Blocks](http://www.trainingblocks.co/) to better serve them. While it
 was initially motivated by my own needs and ideas, the real goal is
 for it to evolve to be something that serves a wider audience of runners. So if
 you have a moment to fill out [this
