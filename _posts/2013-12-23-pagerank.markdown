@@ -4,7 +4,7 @@ title:  "The Linear Algebra Behind PageRank"
 date: 2013-12-23
 snippet: "Explanation of the PageRank algorithm and the linear algebra and graph
 theory behind it."
-categories: projects
+categories: posts
 ---
 
 Google was introduced in 1998 in a 
@@ -40,6 +40,6 @@ crawling of the [WWU website](http://www.wwu.edu/) using the
 PageRank on all the pages within the wwu.edu domain, but it turned out to be more
 difficult then I anticipated translating the complex hyperlink structure into a
 simple and complete web that would work well for PageRank. From my 
-[experience](/projects/2013/09/24/IMDB-Stats.html) it seems gathering,
+[experience](/posts/2013/09/24/IMDB-Stats.html) it seems gathering,
 cleansing, and making sense of data is rarely as quick and easy as it
 sounds.
