@@ -3,7 +3,7 @@ layout: about
 title: "About"
 ---
 
-<img src="/images/profile_pic.jpg" width="40%" align="right"/>
+<img src="/images/work_profile.jpg" width="40%" align="right"/>
 Hi, I'm Chip. Thanks for checking out my website! I hope you have found
 something here interesting or useful.
 
@@ -14,7 +14,6 @@ developing web applications.
 
 ### Contact
 
-* <a href="mailto:chipjacks@gmail.com">chipjacks@gmail.com</a>
 * <a href="http://www.linkedin.com/pub/chip-jackson/66/967/675/">LinkedIn</a>
 * <a href="https://github.com/chipjacks">Github</a>
 
