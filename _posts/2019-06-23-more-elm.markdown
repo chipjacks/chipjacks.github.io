@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "More Thoughts on Elm"
+date: 2019-06-23
+snippet: "Difficulties encoutered after a year and a half with Elm."
+categories: posts
+---
+
+I’ve been working with the Elm programming language for about a year and a half
+now, using it to build several small single page web apps. I love it for its
+clean design and minimalism, but I haven’t yet been able to achieve the level of
+productivity with it that I had hoped for. I wrote a post last year with some
+very positive first impressions. I’m following up here with some difficulties
+I’ve noticed now that I’ve been using it long enough to get past the honeymoon
+stage.
+
+Plumbing can be really hard. Elm 0.19 added routing support, so you can parse
+URLs and navigate between pages. In my opinion, it feels like too much is still
+left to the developer making complex apps really hard to architect. The Elm
+Architecture is a great way for organizing the code for a single element, but
+doesn’t translate well to a set of interacting elements. I spent a ton of time
+reorganizing modules so they could interact with each other without needing a
+ton of boilerplate and without forming a dependency cycle, which the compiler
+won’t allow. I grew tired of spending so much time on plumbing, and not enough
+on the actual problems I’m trying to solve. It’s like if you were trying to
+build a bathroom and had to spend all your time figuring out how a bunch of
+custom pipes fit together under the floor rather than focusing on the beautiful
+porcelain fixtures inside the room.
+
+It takes experience to know how best to use the type system. Elm has a really
+powerful type system. You can structure your data in a ton of different ways
+and it’s easy to create a big mess that then spreads across your codebase. For
+example, I struggled to build something as simple as an Enum for a set of
+values. I’d try one way, and it would lead to some really ugly code in one
+spot, then I’d try another way only to have ugly code in a different spot. It’s
+so hard to predict how things are going to turn out so it takes a lot of trial
+and error to find the right types.
+
+Elm can feel very strict and austere after a while. The compiler has friendly
+and helpful error messages, but its strictness can still wear you down. The
+strong type system makes a lot of the unit tests I’m used to writing in other
+languages unnecessary, but I’d still rather have a well crafted test suite
+telling me what to do than a generic compiler. I understand there’s a need for
+both, but in Elm you’re inevitably going to spend most of your time working
+with the compiler, which takes away a lot of the joy I used to get from doing
+TDD in Ruby. Similarly, the Elm community does a great job of making hard
+decisions and establishing best practices but it sometimes feels like the core
+group is too forceful in declaring “this is the way!” and expecting everyone to
+just fall in line behind them. At times it feels too paternalistic and clashes
+with the ethos of open source.
+
+Overtime a calm pool can start to feel like a stagnate backwater. I initially
+adopted Elm thinking it would be a good long-term bet. Building web front-ends
+often feels overwhelming with how many different approaches, frameworks, and
+packages there are, and seeing them come and go so quickly discourages me from
+depending on any one of them too much. Elm stands out as its own entirely
+separate programming language and its creator has made it clear that he wants
+to move slowly and deliberately so that the ecosystem will be stable and
+lasting. It feels like a calm little pool beside the raging rapids of the
+Javascript ecosystem, sharing the same water but free from the big waves and
+strong currents affecting the larger river. But I’m already feeling ready to
+move on, like this calm pool has turned into a stagnate backwater for me and
+need new scenery and new challenges to keep learning and growing.
