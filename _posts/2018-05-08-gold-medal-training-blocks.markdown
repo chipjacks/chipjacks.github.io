@@ -2,7 +2,7 @@
 layout: post
 title:  "Training Blocks: Building a Gold Medal"
 date: 2018-05-08
-snippet: "Visual training logs for three Olympic gold medalists"
+snippet: "Visual training logs for three Olympic gold medalists."
 categories: posts
 ---
 
