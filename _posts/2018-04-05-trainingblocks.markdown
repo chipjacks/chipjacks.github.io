@@ -3,7 +3,7 @@ layout: post
 title:  "Training Blocks"
 date: 2018-04-05
 snippet: "An online fitness platform built for runners."
-categories: projects
+categories: posts
 ---
 
 I have this crazy obsession with training logs for runners. It all started

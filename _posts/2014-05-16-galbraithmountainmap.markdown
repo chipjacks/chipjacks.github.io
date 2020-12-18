@@ -4,7 +4,7 @@ title:  "GalbraithMountainMap.com"
 date: 2014-05-16
 snippet: "An interactive online map of the mountain biking and running trails on
 Galbraith Mountain."
-categories: projects
+categories: posts
 ---
 
 <div id="figure" align="center">
