@@ -82,13 +82,13 @@ MPAA rating attribute. This attribute looked something like:
 The reason these ratings worked so well for data mining was because the MPAA
 likes to use certain keywords in their ratings: language, drugs, sex, violence,
 and nudity. So the rating above could be broken down into to a series of
-booleans indicating that the movie contained violence, language, sex and nudity,
-but didn't contain any drugs. I was hoping to find some dirty statistic like
-"movies with violence and drugs tend to be rated higher than those without," but
-it turned out that MPAA ratings weren't a very good predictor of user ratings.
-Actually, the presence of any of those keywords in a MPAA rating had a
-slight negative correlation with the user rating attribute, instead of the
-positive correlation I was expecting to find. 
+booleans indicating that the movie contained violence, language, sex and
+nudity, but didn't contain any drugs. I was kinda expecting to find some dark
+statistic like "movies with violence and drugs tend to be rated higher than
+those without," but it turned out that MPAA ratings weren't a very good
+predictor of user ratings.  Actually, the presence of any of those keywords had
+a slight negative correlation with the user rating attribute! Maybe there's
+hope yet for humanity.
 
 So the MPAA ratings weren't very useful for predicting user ratings, but they
 are still useful for looking at what kind of obscenities are filling our movies:
@@ -126,7 +126,7 @@ who consistently make great movies:
 actresses with at least 20 movies.
 
 <table>
- <tr><th>Director</th><th>Average user rating</th><th>Number of movies<th></tr>
+ <tr><th>Director</th><th>Average user rating</th><th>Number of movies</th></tr>
  <tr><td>Nolan, Christopher</td><td>8.41</td><td>7</td></tr>
  <tr><td>Unkrich, Lee</td><td>8.13</td><td>4</td></tr>
  <tr><td>Darabont, Frank</td><td>7.98</td><td>4</td></tr>
