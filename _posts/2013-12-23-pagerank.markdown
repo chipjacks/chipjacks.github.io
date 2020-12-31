@@ -40,6 +40,6 @@ crawling of the [WWU website](http://www.wwu.edu/) using the
 PageRank on all the pages within the wwu.edu domain, but it turned out to be more
 difficult then I anticipated translating the complex hyperlink structure into a
 simple and complete web that would work well for PageRank. From my 
-[experience](/posts/2013/09/24/IMDB-Stats.html) it seems gathering,
+[experience](/posts/IMDB-Stats.html) it seems gathering,
 cleansing, and making sense of data is rarely as quick and easy as it
 sounds.

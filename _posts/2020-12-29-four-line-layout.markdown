@@ -9,8 +9,9 @@ categories: posts
 Feeling both overwhelmed by all the CSS layout systems available now and
 inspired by the simplicity of
 [elm-ui's](https://package.elm-lang.org/packages/mdgriffith/elm-ui/1.1.8/Element#row)
-use of just rows and columns, I created four CSS classes that
-provide a small abstraction over [`flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):
+use of just rows and columns, I created four CSS classes that provide a small
+abstraction over
+[`flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):
 
 ```css
 .row { display: flex; flex-direction: row; }

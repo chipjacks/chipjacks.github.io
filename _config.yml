@@ -2,3 +2,5 @@ name: Chip Jackson
 markdown: kramdown
 highlighter: rouge
 permalink: none
+plugins:
+    - jekyll-target-blank
