@@ -8,13 +8,12 @@
 
 html {
    /*background-color: rgb(115,117,119);*/
-	font: 16px/1.5 'Avenir', 'Oxygen', sans-serif;
-	min-width: 680px;
+  font: 16px/1.5 'Avenir', 'Oxygen', sans-serif;
 }
 
 body {
   width:100%;
-	margin: 0px;
+  margin: 0px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -47,7 +46,7 @@ img {
 }
 
 a {
-  color: rgb(49, 109, 150); 
+  color: rgb(49, 109, 150);
   font: lighter;
   text-decoration:none;
 }
@@ -69,24 +68,22 @@ a:visited { color: #996699; }
 }
 
 .content {
-	background-color: white;
-	border-radius: 10px;
-	overflow:hidden;
-  padding:0 40px;
+  background-color: white;
+  overflow:hidden;
+  padding:0 10px;
 }
 
 .page-title {
-	margin: 0px -40px;
-	padding: 10px 40px;
-	padding-top: 40px;
-	font-size: 35px;
-	/*background-color: gainsboro;*/
+  margin: 0px -40px;
+  padding: 10px 40px;
+  padding-top: 40px;
+  font-size: 35px;
+  /*background-color: gainsboro;*/
 }
 
 .post-title {
-	margin: 0px -40px;
-	padding: 40px 40px 5px;
-	font-size: 35px;
+  font-size: 35px;
+  margin-top: 30px;
 }
 
 .post-date {
@@ -100,45 +97,55 @@ a:visited { color: #996699; }
 /*
 /*****************************************************************************/
 #home .list-title {
-	margin: 0px -40px;
-	padding: 25px 40px;
-	font-size: 35px;
-	/*background-color: gainsboro;*/
+  margin: 0px -40px;
+  padding: 25px 40px;
+  font-size: 35px;
+  /*background-color: gainsboro;*/
 }
 
 #home ul {
-	margin: 0px;
-	padding-left: 0px;
+  margin: 0px;
+  padding-left: 0px;
 }
 
 #home li {
   list-style-type: none;
-	margin: 0px -40px;
-	padding: 0px 40px;
-	cursor: pointer;
+  padding: 20px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+@media (max-width: 500px) {
+  #home li {
+    padding: 20px 5px;
+  }
 }
 
 #home li:hover {
-	background: #EfEfEf;
+  background: #EfEfEf;
 }
 
 
 ul .pl-title {
-	float: left;
-	font-size: 20px;
-	max-width: 450px;
-	padding: 30px 0px 10px 0px;
+  float: left;
+  font-size: 20px;
 }
 
 ul .pl-date {
-	padding-top: 30px;
-	float: right;
+  float: right;
+  color: #666666;
+}
+
+@media (max-width: 500px) {
+  ul .pl-date {
+    float: none;
+    font-size: 0.8rem;
+  }
 }
 
 ul .pl-snippet {
-	clear: both;
-	padding: 0px 0px 20px 0px;
-	color: #666666; 
+  clear: both;
+  color: #666666;
 }
 
 /*****************************************************************************/
@@ -148,7 +155,6 @@ ul .pl-snippet {
 /*****************************************************************************/
 
 #about {
-  padding: 0 40px 30px 40px;
 }
 
 #about h1 {
@@ -158,6 +164,18 @@ ul .pl-snippet {
 #about img {
   margin: 0 20px;
   border-radius: 50%;
+  width: 40%;
+  float: right;
+  display: block;
+}
+
+@media (max-width: 500px) {
+  #about img {
+    width: 90%;
+    margin: 0 auto 30px auto;
+    max-width: 250px;
+    float: none;
+  }
 }
 
 /*****************************************************************************/
@@ -167,31 +185,33 @@ ul .pl-snippet {
 /*****************************************************************************/
 
 .site {
-	width: 680px;
   margin-right:auto;
   margin-left:auto;
+  max-width: 800px;
 }
 
 .inner-header {
   /*background: rgb(115,117,119);*/
-	height: 150px;
-	display:block;
-	width: 680px;
+  height: 120px;
+  display:block;
   margin-right:auto;
   margin-left:auto;
+  max-width: 800px;
 }
 
-.inner-header #logo {
+.inner-header .logo {
   display:inline-block;
-	padding-top: 5px;
-	padding-left: 25px;
-	height: 100px;
-	text-align:center;
-  float:left;
+  height: 70%;
+  text-align:center;
+  padding-left: 10px;
+}
+
+#logo {
+  height: 100%;
 }
 
 .header {
-	background: cornflowerblue;
+  background: cornflowerblue;
 }
 
 
@@ -200,41 +220,41 @@ ul .pl-snippet {
 }
 
 .footer {
-	color: #222222;
-	font-size: 14px;
+  color: #222222;
+  font-size: 14px;
 }
 .footer #license {
-	/*color: #222222;*/
+  /*color: #222222;*/
 }
 
 .navigation {
-	float: right;
-	padding-right: 20px;
-	padding-top: 20px;
+  float: right;
+  padding-right: 20px;
+  padding-top: 10px;
 }
 
 .navigation ul {
-	list-style-type: none;
-	text-align: right;
-	color: black;
-	letter-spacing:1px;
+  list-style-type: none;
+  text-align: right;
+  color: black;
+  letter-spacing:1px;
 }
 
 .navigation li {
-	padding: 3px;
-	font-size: 20px;
+  padding: 3px;
+  font-size: 20px;
 }
 
 .navigation a {
-	color: #222222; 
+  color: #222222; 
 }
 
 .navigation a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .navigation a.active {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 .footer {
@@ -250,7 +270,7 @@ ul .pl-snippet {
 /*****************************************************************************/
 
 .post {
-	background-color: white;
+  background-color: white;
 }
 
 /* standard */
@@ -286,9 +306,7 @@ ul .pl-snippet {
 }
 
 /* custom */
-.post {
-  padding: 0 40px;
-}
+.post { }
 
 .post table {
   margin-left:auto;
