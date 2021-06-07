@@ -53,10 +53,10 @@ can play with it more. Here are a few of the examples:
 
 
 <div style="display: flex; justify-content: center; margin: 40px 0; flex-direction: row; flex-wrap: wrap;">
-  <img src="/images/sketched_flowchart.png" style="max-width: 90%;"/>
-  <img src="/images/sketched_composition.png" style="max-width: 90%;"/>
+  <img src="/images/sketched_flowchart.png" style="max-width: 90%; object-fit: contain"/>
+  <img src="/images/sketched_composition.png" style="max-width: 90%; object-fit: contain"/>
   <div style="width: 40px"></div>
-  <img src="/images/sketched_house.png" style="max-width: 90%;"/>
+  <img src="/images/sketched_house.png" style="max-width: 90%; object-fit: contain"/>
 </div>
 
 Kinda fun, and in my opinion the sketched look helps reflect the uncertainty
