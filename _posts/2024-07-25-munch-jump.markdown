@@ -29,6 +29,6 @@ Hope you have as much playing it as I had making it 🤘
 - [Check out the code](https://github.com/chipjacks/munch-jump)
 - [Play Munch Jump](https://chipjacks.com/munch-jump/)
 
-<div style="display: flex; justify-content: center; margin: 40px 0; max-height: 500px;">
-  <img src="/images/munch_jump.png" style="max-width: 90%; object-fit: contain; border-radius: 10px"/>
+<div style="display: flex; justify-content: center; margin: 40px 0;">
+  <img src="/images/munch_jump.png" style="max-height: 500px; max-width: 90%; object-fit: contain; border-radius: 10px; margin: auto;"/>
 </div>
