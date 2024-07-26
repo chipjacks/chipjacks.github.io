@@ -30,5 +30,5 @@ Hope you have as much playing it as I had making it 🤘
 - [Play Munch Jump](https://chipjacks.com/munch-jump/)
 
 <div style="display: flex; justify-content: center; margin: 40px 0; max-height: 500px;">
-  <img src="/images/munch_jump.png" style="max-width: 90%; object-fit: contain"/>
+  <img src="/images/munch_jump.png" style="max-width: 90%; object-fit: contain; border-radius: 10px"/>
 </div>
