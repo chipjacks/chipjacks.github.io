@@ -24,7 +24,7 @@ creative and fun decisions. I was even able to generate a custom typeface for
 the title page using [GenType](https://labs.google/gentype) and a little
 soundtrack for the game using [Strofe](https://www.strofe.com/library).
 
-Hope you have as much playing it as I had making it 🤘
+Hope you have as much fun playing it as I had making it 🤘
 
 - [Check out the code](https://github.com/chipjacks/munch-jump)
 - [Play Munch Jump](https://chipjacks.com/munch-jump/)
