@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Runo Towers"
-date:   2025-09-25
+title: "Runo Towers"
+date: 2025-09-25
 snippet: "A Tetris-like mobile game, where blocks are generated based on miles you've run."
 categories: posts
 ---
@@ -47,6 +47,6 @@ score board 🏆
 
 <div style="display: flex; justify-content: center; margin: 40px 0;">
   <a href="https://runo.app/runo-towers/">
-    <img src="/images/munch_jump.png" style="max-height: 500px; max-width: 90%; object-fit: contain; border-radius: 10px; margin: auto;"/>
+    <img src="/images/runo_towers_icon.png" style="max-height: 500px; max-width: 90%; object-fit: contain; border-radius: 10px; margin: auto;"/>
   </a>
 </div>
