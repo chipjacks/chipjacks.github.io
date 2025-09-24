@@ -6,12 +6,12 @@ snippet: "A Tetris-like mobile game, where blocks are generated based on miles y
 categories: posts
 ---
 
-<div style="display: flex; justify-content: center; margin: 40px 0;">
-  <a href="https://runo.app/runo-towers/">
-    <img src="/images/runo_towers_icon.png" alt="Runo Towers Icon" style="max-height: 500px; max-width: 90%; object-fit: contain; border-radius: 10px; margin: auto;"/>
-  </a>
+<div style="display: flex; margin: 20px 0; flex-wrap: wrap; justify-content: center">
+    <img src="/images/runo_towers_sign_in.png" alt="Runo Towers Sign In" style="max-height: 500px; margin-right: 20px" />
+    <img src="/images/runo_towers_new_game.png" alt="Runo Towers New Game" style="max-height: 500px; margin-right: 20px" />
+    <img src="/images/runo_towers_tutorial.png" alt="Runo Towers Tutorial" style="max-height: 500px; margin-right: 20px" />
+    <img src="/images/runo_towers_demo.gif" alt="Runo Towers Demo" style="max-height: 500px; margin-right: 20px" />
 </div>
-
 For years I've been interested in mobile development, but never quite had
 the head-space to build a native app, instead opting to build web applications
 that work well on mobile devices as well. This all changed when I stumbled
@@ -49,4 +49,4 @@ integration points for LLMs in my future projects. For now though, I'll just
 be focusing on keeping my latest Topply Tower at the top of the Runo Towers high
 score board 🏆
 
-- [Download Runo Towers](https://runo.app/runo-towers/)
+#### 👉 [Download Runo Towers](https://runo.app/runo-towers/)
