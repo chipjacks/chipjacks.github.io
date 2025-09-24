@@ -1,10 +1,16 @@
 ---
 layout: post
 title: "Runo Towers"
-date: 2025-09-25
+date: 2025-09-24
 snippet: "A Tetris-like mobile game, where blocks are generated based on miles you've run."
 categories: posts
 ---
+
+<div style="display: flex; justify-content: center; margin: 40px 0;">
+  <a href="https://runo.app/runo-towers/">
+    <img src="/images/runo_towers_icon.png" alt="Runo Towers Icon" style="max-height: 500px; max-width: 90%; object-fit: contain; border-radius: 10px; margin: auto;"/>
+  </a>
+</div>
 
 For years I've been interested in mobile development, but never quite had
 the head-space to build a native app, instead opting to build web applications
@@ -19,14 +25,14 @@ Somewhat on a whim, I decided to build a Tetris-like app for runners. Connect
 your Strava account and earn a block for each mile you run. Stack the blocks to
 build towers and compete with your friends. I started the app on a vacation in
 2024, thinking it would just be a quick/fun project for a few weeks. A few
-months later I found myself struggling to integrate [Matter.js]https://github.com/liabru/matter-js), a 2D physics
+months later I found myself struggling to integrate [Matter.js](https://github.com/liabru/matter-js), a 2D physics
 engine, determined to take the app to the next level. On my next long vacation
 (over a year later 😅) I'm putting the finishing touches on the app.
 
 Needless to say, it turned into a much bigger project than I had anticipated.
 There were lots of difficult learnings along the way and jumping into coding without
 doing any design or planning made the development process a bit more windy and
-slow. AI coding agents played a large roll in the app development, from a
+slow. AI coding agents played a large role in the app development, from a
 toy-like ChatGPT 3/4 generating some of the initial code for the Tetris
 mechanics, to more recently, powerful Claude agents seamlessly implementing
 entire features across the full stack.
@@ -44,9 +50,3 @@ be focusing on keeping my latest Topply Tower at the top of the Runo Towers high
 score board 🏆
 
 - [Download Runo Towers](https://runo.app/runo-towers/)
-
-<div style="display: flex; justify-content: center; margin: 40px 0;">
-  <a href="https://runo.app/runo-towers/">
-    <img src="/images/runo_towers_icon.png" style="max-height: 500px; max-width: 90%; object-fit: contain; border-radius: 10px; margin: auto;"/>
-  </a>
-</div>
