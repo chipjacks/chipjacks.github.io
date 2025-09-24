@@ -8,8 +8,8 @@ categories: posts
 
 <div style="display: flex; margin: 20px 0; flex-wrap: wrap; justify-content: center">
     <img src="/images/runo_towers_sign_in.png" alt="Runo Towers Sign In" style="max-height: 500px; margin-right: 20px" />
+    <img src="/images/runo_towers_choose_game.png" alt="Runo Towers Choose Game" style="max-height: 500px; margin-right: 20px" />
     <img src="/images/runo_towers_new_game.png" alt="Runo Towers New Game" style="max-height: 500px; margin-right: 20px" />
-    <img src="/images/runo_towers_tutorial.png" alt="Runo Towers Tutorial" style="max-height: 500px; margin-right: 20px" />
     <img src="/images/runo_towers_demo.gif" alt="Runo Towers Demo" style="max-height: 500px; margin-right: 20px" />
 </div>
 For years I've been interested in mobile development, but never quite had
