@@ -9,16 +9,20 @@ Bellingham, WA | chipjacks@gmail.com | (206) 380-4484 | [linkedin.com/in/chipjac
 **Senior Software Engineer at ZipRecruiter**
 *Bellingham, WA | January 2025 – Present | 9 months+*
 
-* Led a workstream of 5 engineers, successfully shipping 10+ new messaging products and systems.
-* Mentored 2 engineers and contributed to development processes and tooling, improving engineering productivity across the team.
-* Collaborated with product, management, and recommendations teams to design and implement product updates that resulted in a 91% ($200k) increase in monthly revenue.
+* Developed tooling and best practices for AB testing in Spark and Flink with Statsig, now used by multiple teams for experimentation.
+* Designed and implemented job novelty and deduping systems, used across millions of jobseeker emails per day to ensure we are sending fresh job recommendations. (Flink, DynamoDB)
+* Gave a company-wide lightning talk, participated in book clubs, knowledge shares, and working groups, helping to level-up myself and other engineers.
+* Contributed to Gradle configuration and CI/CD processes to decrease build time by utilizing Remote Build Cache.
 
 **Software Engineer at ZipRecruiter**
 *Bellingham, WA | October 2021 – January 2025 | 3 year 4 months*
 
-* Architected, implemented, and maintained multiple batch and streaming data pipelines used to send personalized job recommendation messages to millions of job seekers.
-* Improved scalability and reliability of messaging systems, supporting millions of users across multiple channels.
-* Built core components with Python, Java, Scala, Spark, Flink, and AWS.
+* Conducted 30+ interviews per year for the new grad and intern hiring pipeline, performing as one of the top 5 interviewers across the company.
+* Led a workstream of 5 engineers for one year, successfully shipping 12+ new products and systems.
+* Maintained systems responsible for sending ~30 distinct emails to 10+ million jobseekers per day. (Perl, Python, AWS, Kubernetes)
+* Handled on-call responsibilities for up to 26 weeks a year by tuning alerts, improving system stability, and introducing low-urgency PagerDuty alerting across the company. (Prometheus, Grafana)
+* Updated email templates and styling, leveraging Cerberus open-source libraries to introduce responsive email layouts, now used for all jobseeker emails. (Node.js, Tailwind CSS)
+* Led the design and implementation process for a core messaging product re-write, resulting in a 91% ($200k) increase in monthly revenue. (Spark)
 
 **Full-Stack Software Developer – Contractor & Open Source Contributor**
 *Bellingham, WA | October 2020 – October 2021 | 1 year*
@@ -31,7 +35,7 @@ Bellingham, WA | chipjacks@gmail.com | (206) 380-4484 | [linkedin.com/in/chipjac
 *Bellingham, WA | October 2019 – October 2020 | 1 year*
 
 * Built a backend API for rendering PNGs from HTML Canvas elements. (Node.js, Kubernetes)
-* Collaborated on a team building a slide editor, implementing ~15 new features. (React.js, Webpack)
+* Collaborated on a team building a PowerPoint-like slide editor, implementing ~15 new features. (React.js, Webpack)
 * Led a team of 2 contractors to build a room layout editor. (React.js)
 
 **Software Engineer at Factual**
