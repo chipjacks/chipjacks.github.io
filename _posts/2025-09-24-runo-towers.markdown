@@ -49,4 +49,4 @@ integration points for LLMs in my future projects. For now though, I'll just
 be focusing on keeping my latest Topply Tower at the top of the Runo Towers high
 score board 🏆
 
-#### 👉 [Download Runo Towers](https://runo.app/runo-towers/)
+#### 👉 [Download Runo Towers](https://runo.app/towers/)
