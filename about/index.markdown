@@ -1,6 +1,7 @@
 ---
 layout: about
 title: "About"
+description: "Learn more about me, my background, skills, and experience in software development."
 ---
 
 <style>
@@ -9,15 +10,14 @@ title: "About"
   display: inline-block;
   width: 40%;
   float: right;
-  margin: 20px;
-  border-radius: 10px;
+  margin: 10px;
   overflow: hidden;
 }
 
 @media (max-width: 500px) {
   .profile-image-container {
     width: 90%;
-    margin: 0 auto 30px auto;
+    margin: 0 auto 10px auto;
     max-width: 250px;
     float: none;
     display: block;
@@ -29,7 +29,6 @@ title: "About"
   width: 100%;
   height: auto;
   border-radius: 10px;
-  margin: 10px;
 }
 
 .profile-image-base {
@@ -59,12 +58,12 @@ title: "About"
 <script>
 (function() {
   const container = document.querySelector('.profile-image-container');
+  let hasScrolled = false;
   
   function handleScroll() {
-    if (window.scrollY > 100) {
+    if (!hasScrolled && window.scrollY > 100) {
+      hasScrolled = true;
       container.classList.add('scrolled');
-    } else {
-      container.classList.remove('scrolled');
     }
   }
   

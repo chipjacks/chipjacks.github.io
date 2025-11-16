@@ -1,12 +1,10 @@
 ---
 layout: default
 title: "Posts"
+description: "Browse my latest blog posts and articles on software development, technology, and programming."
 ---
 
 <div id="home" class="content">
-	<div class="page-title">
-		Posts
-	</div>
   <div class="post-list">
     {% for post in site.categories.posts %}
 			<a class="post-li" href="{{ post.url }}" target="_blank">
