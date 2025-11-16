@@ -18,7 +18,7 @@ favorite old iPhone games. By the end of the workshop I had a circle bouncing
 up and down on my screen with rectangles falling past it and I was HOOKED.
 
 The process of making a small Javascript game was a perfect project to pair
-with ChatGPT and some fun sketches created by my friend. Leveraging AI made it
+with ChatGPT and some fun sketches created by my illustrator friend. Leveraging AI made it
 possible to generate much of the boring code and quickly get past any hiccups
 due to my inexperience with the p5.js library, freeing me to focus on the
 creative and fun decisions. I was even able to generate a custom typeface for
