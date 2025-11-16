@@ -175,6 +175,7 @@ a.post-li {
 .pl-preview img {
   max-height: 300px;
   max-width: 300px;
+  border-radius: 5px;
 }
 
 @media (max-width: 500px) {
@@ -206,8 +207,8 @@ a.post-li {
 }
 
 #about img {
-  margin: 0 20px;
-  border-radius: 50%;
+  margin: 20px;
+  border-radius: 10px;
   width: 40%;
   float: right;
   display: block;
