@@ -3,7 +3,75 @@ layout: about
 title: "About"
 ---
 
-<img src="/images/mba_profile_square.jpg" alt="Photo of Chip Jackson" />
+<style>
+.profile-image-container {
+  position: relative;
+  display: inline-block;
+  width: 40%;
+  float: right;
+  margin: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+@media (max-width: 500px) {
+  .profile-image-container {
+    width: 90%;
+    margin: 0 auto 30px auto;
+    max-width: 250px;
+    float: none;
+    display: block;
+  }
+}
+
+.profile-image-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.profile-image-base {
+  position: relative;
+}
+
+.profile-image-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.profile-image-container:hover .profile-image-overlay,
+.profile-image-container.scrolled .profile-image-overlay {
+  opacity: 1;
+}
+</style>
+
+<div class="profile-image-container">
+  <img class="profile-image-base" src="/images/mba_profile_square.jpg" alt="Photo of Chip Jackson" />
+  <img class="profile-image-overlay" src="/images/mba_profile_smiling_square.jpg" alt="Photo of Chip Jackson smiling" />
+</div>
+
+<script>
+(function() {
+  const container = document.querySelector('.profile-image-container');
+  
+  function handleScroll() {
+    if (window.scrollY > 100) {
+      container.classList.add('scrolled');
+    } else {
+      container.classList.remove('scrolled');
+    }
+  }
+  
+  window.addEventListener('scroll', handleScroll);
+})();
+</script>
+
 Hi, I'm Chip. Thanks for checking out my website! I hope you have found
 something here interesting or useful.
 
