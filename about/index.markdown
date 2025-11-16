@@ -3,23 +3,23 @@ layout: about
 title: "About"
 ---
 
-<img src="/images/mba_profile_square.jpg" />
+<img src="/images/mba_profile_square.jpg" alt="Photo of Chip Jackson" />
 Hi, I'm Chip. Thanks for checking out my website! I hope you have found
 something here interesting or useful.
 
-Most of my career has been spent in data engineer type
-roles, building pipelines to extract, clean, transform, and move large amounts
+Most of my career has been spent in data engineer roles, building pipelines to
+extract, clean, transform, and move large amounts
 of data. In the past I've focused on web crawl and extraction of structured
 data, while currently I'm working on streaming pipelines primarily used for
 sending job recommendation emails at ZipRecruiter. I find there's a seemingly
 unlimited supply of messy and disorganized data available in the the digital
-realm, so there's tremendous value to be unlocked if one can effectively
+realm, so there's tremendous value that can be unlocked if one can effectively
 wrangle it. Yee haw!
 
 Outside of my day job, I see myself as a bit of a generalist. I enjoy exploring
 new topics, broadening my skillsets, and building small apps and games. I've
-designed and developed web apps, mobile apps, browser extensions, front-end
-components, and back-end libraries. I got my degrees in Math, Computer Science,
+designed and developed web apps, mobile apps, browser extensions, frontend
+components, and backend libraries. I got my degrees in Math, Computer Science,
 Physics, and Business and enjoy reading history, business, biographies, and
 adventure books.
 
