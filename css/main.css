@@ -68,10 +68,12 @@ a:visited { color: #996699; }
 }
 
 .content {
+  max-width: 800px;
+  margin: auto;
   background-color: white;
   overflow:hidden;
   padding:0 10px;
-  margin-bottom: 40px;
+  margin-bottom: 80px;
 }
 
 .page-title {
@@ -121,6 +123,11 @@ a:visited { color: #996699; }
 /* Home
 /*
 /*****************************************************************************/
+
+#home {
+  max-width: 100%;
+}
+
 #home .list-title {
   margin: 0px -40px;
   padding: 25px 40px;
@@ -190,7 +197,6 @@ a.post-li {
 /*****************************************************************************/
 
 #about {
-  max-width: 800px;
   margin-right:auto;
   margin-left:auto;
 }
