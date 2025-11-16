@@ -4,6 +4,7 @@ title:  "Training Blocks: Building a Gold Medal"
 date: 2018-05-08
 snippet: "Visual training logs for three Olympic gold medalists."
 categories: posts
+preview: "/images/EluidKipchoge.png"
 ---
 
 Ever wondered how to go about winning the Olympic marathon? Or how to set a new

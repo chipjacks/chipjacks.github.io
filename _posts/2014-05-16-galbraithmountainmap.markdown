@@ -5,6 +5,7 @@ date: 2014-05-16
 snippet: "An interactive online map of the mountain biking and running trails on
 Galbraith Mountain."
 categories: posts
+preview: "/images/galbraith_poster_thumbnail.png"
 ---
 
 <div id="figure" align="center">

@@ -74,11 +74,24 @@ a:visited { color: #996699; }
 }
 
 .page-title {
-  margin: 0px -40px;
-  padding: 10px 40px;
-  padding-top: 40px;
+  margin: 40px 0px;
   font-size: 35px;
-  /*background-color: gainsboro;*/
+}
+
+#home .page-title {
+  margin: 40px 80px;
+}
+
+.post-list {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.post-li {
+  display: grid;
+  border: 1px solid gainsboro;
 }
 
 .post-title {
@@ -89,6 +102,13 @@ a:visited { color: #996699; }
 .post-date {
   display:inline-block;
   color: #aaa;
+}
+
+.pl-title {
+}
+
+.pl-snippet {
+  display: flex;
 }
 
 /*****************************************************************************/
@@ -103,49 +123,57 @@ a:visited { color: #996699; }
   /*background-color: gainsboro;*/
 }
 
-#home ul {
-  margin: 0px;
-  padding-left: 0px;
-}
-
-#home li {
+.post-li {
   list-style-type: none;
   padding: 20px;
   cursor: pointer;
   border-radius: 10px;
 }
 
+a.post-li {
+  text-decoration: none;
+  color: inherit;
+}
+
 @media (max-width: 500px) {
-  #home li {
+  .post-li {
     padding: 20px 5px;
   }
 }
 
-#home li:hover {
-  background: #EfEfEf;
+.post-li:hover {
+  background: #f7f7f7;
+  text-decoration: none;
+  color: inherit;
 }
 
 
-ul .pl-title {
-  float: left;
+.pl-title {
   font-size: 20px;
 }
 
-ul .pl-date {
-  float: right;
+.pl-date {
   color: #666666;
 }
 
+.pl-preview {
+  margin: auto;
+}
+
+.pl-preview img {
+  max-height: 300px;
+  max-width: 300px;
+}
+
 @media (max-width: 500px) {
-  ul .pl-date {
+  .pl-date {
     float: none;
     font-size: 0.8rem;
   }
 }
 
-ul .pl-snippet {
-  clear: both;
-  color: #666666;
+.pl-snippet {
+  max-width: 300px;
 }
 
 /*****************************************************************************/
@@ -155,6 +183,9 @@ ul .pl-snippet {
 /*****************************************************************************/
 
 #about {
+  max-width: 800px;
+  margin-right:auto;
+  margin-left:auto;
 }
 
 #about h1 {
@@ -187,7 +218,6 @@ ul .pl-snippet {
 .site {
   margin-right:auto;
   margin-left:auto;
-  max-width: 800px;
 }
 
 .inner-header {

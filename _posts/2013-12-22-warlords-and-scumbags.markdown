@@ -5,6 +5,7 @@ date: 2013-12-22
 snippet: "Client and server applications for playing the Warlords and Scumbags
 card game (aka Presidents and Assholes) over a network."
 categories: posts
+preview: "/images/warlords_scumbags_gui.png"
 ---
 
 In a networking course I took this past quarter, the class was assigned a

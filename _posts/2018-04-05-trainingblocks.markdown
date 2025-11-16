@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Training Blocks"
+title: "Training Blocks"
 date: 2018-04-05
 snippet: "An online fitness platform built for runners."
 categories: posts
+preview: "/images/runo_month_view.png"
 ---
 
 I have this crazy obsession with training logs for runners. It all started

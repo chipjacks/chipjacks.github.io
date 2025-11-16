@@ -5,22 +5,25 @@ title: "Posts"
 
 <div id="home" class="content">
 	<div class="page-title">
-  	Posts
+		Posts
 	</div>
-  <ul class="post-list">
+  <div class="post-list">
     {% for post in site.categories.posts %}
-			<li class="post-li" onclick="window.location='{{ post.url }}';">
+			<a class="post-li" href="{{ post.url }}" target="_blank">
+				{% if post.preview %}
+					<div class="pl-preview">
+						<img src="{{ post.preview }}"/>
+					</div>
+				{% endif %}
 				<div class="pl-date">
 					{{ post.date | date: "%B %Y" }}
 				</div>
 				<div class="pl-title">
 					{{ post.title }}
 				</div>
-				<br>	
 				<div class="pl-snippet">
 					{{ post.snippet }}
 				</div>
-			</li>
+			</a>
     {% endfor %}
-  </ul>
 </div>

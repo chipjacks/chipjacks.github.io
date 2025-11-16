@@ -4,6 +4,7 @@ title:  "Four Line Layout"
 date:   2020-12-29
 snippet: "Define any layout with just four simple CSS classes."
 categories: posts
+preview: "/images/four_line_layout.png"
 ---
 
 One place I often get hung up starting a new project is on how to build the

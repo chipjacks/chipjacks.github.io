@@ -5,6 +5,7 @@ date:   2013-09-24
 snippet: "Some interesting statistics and charts about the movies that make up
 the IMDB database."
 categories: posts
+preview: "/images/percent_movies_genre.png"
 ---
 
 This past spring I was in a data mining class and I spent some time working with

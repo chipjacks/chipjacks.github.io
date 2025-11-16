@@ -4,6 +4,7 @@ title: "Runo Towers"
 date: 2025-09-24
 snippet: "A Tetris-like mobile game, where blocks are generated based on miles you've run."
 categories: posts
+preview: "/images/runo_towers_demo.gif"
 ---
 
 <div style="display: flex; margin: 20px 0; flex-wrap: wrap; justify-content: center">

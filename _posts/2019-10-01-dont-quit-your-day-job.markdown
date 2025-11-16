@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Don't Quit Your Day Job"
+title: "Don't Quit Your Day Job"
 date: 2019-10-01
 snippet: "A few takeaways from a failed venture."
 categories: posts
+preview: "/images/passion_paradox.png"
 ---
 
 I quit my job about a year and a half ago, having hopes of building my own
@@ -14,7 +15,7 @@ takeaways.
 job wasn’t right for them, quitting, and just coming up with their own thing.
 But the reality is that’s not an easy transition to make and I think most
 people just flop without the structure of a more traditional job. The book [“The
-Passion Paradox”](https://www.passionparadoxbook.com/) talks about how important it is to pursue your passions
+Passion Paradox”](https://www.amazon.com/Passion-Paradox-Discovering-Benefits-Unbalanced/dp/1635653436) talks about how important it is to pursue your passions
 carefully and deliberately to avoid having them derail the rest of your life.
 It takes time and many ups and downs before something you’re passionate about
 becomes mature enough to replace a typical day job. During that process its

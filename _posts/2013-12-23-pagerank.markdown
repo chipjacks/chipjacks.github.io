@@ -5,6 +5,7 @@ date: 2013-12-23
 snippet: "Explanation of the PageRank algorithm and the linear algebra and graph
 theory behind it."
 categories: posts
+preview: "/images/1998_google_logo.png"
 ---
 
 Google was introduced in 1998 in a 

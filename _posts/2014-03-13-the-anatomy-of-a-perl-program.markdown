@@ -5,6 +5,7 @@ date: 2014-3-12
 snippet: "A poster detailing some of the common features and characteristics of
 a perl program."
 categories: posts
+preview: "/images/perlposter_thumbnail.jpg"
 ---
 
 <div id="figure" align="center">

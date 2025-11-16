@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Thoughts on Elm"
+title: "Thoughts on Elm"
 date: 2018-04-04
 snippet: "Some opinions on Elm language after using it to build a web front-end."
 categories: posts
+preview: "/images/elm.png"
 ---
 
 I recently had the opportunity to build a [web
@@ -18,7 +19,7 @@ often just a matter of finding the existing solution and plugging it in. It
 can be comforting to have all this figured out for you, but it also takes
 away opportunities for you to innovate and contribute your own ideas.
 Additionally, reading docs and adjusting configs is very passive and can
-result in me feeling more detached from my work than if I was 
+result in me feeling more detached from my work than if I was
 coming up with my own solutions. So in a lot of ways it was really refreshing
 to work in Elm's smaller ecosystem where I had more opportunities to just
 figure stuff out for myself.

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Munch Jump"
-date:   2024-07-25
+title: "Munch Jump"
+date: 2024-07-25
 snippet: "A Doodle Jump inspired game with custom art."
 categories: posts
+preview: "/images/munch_jump.png"
 ---
 
 I recently attended a workshop where we were pointed at
