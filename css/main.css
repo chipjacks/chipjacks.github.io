@@ -14,6 +14,7 @@ html {
 body {
   width:100%;
   margin: 0px;
+  background-color: #f5f5f5;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -70,7 +71,6 @@ a:visited { color: #996699; }
 .content {
   max-width: 800px;
   margin: auto;
-  background-color: white;
   overflow:hidden;
   padding:0 10px;
   margin-bottom: 80px;
@@ -97,6 +97,7 @@ a:visited { color: #996699; }
   display: flex;
   flex-direction: column;
   border: 1px solid gainsboro;
+  background: white;
   max-width: 400px;
   width: fit-content;
 }
@@ -141,6 +142,7 @@ a:visited { color: #996699; }
   padding-top: 10px;
   cursor: pointer;
   border-radius: 10px;
+  width: 350px;
 }
 
 a.post-li {
@@ -154,7 +156,8 @@ a.post-li {
 }
 
 .post-li:hover {
-  background: #f7f7f7;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   text-decoration: none;
   color: inherit;
 }
@@ -226,6 +229,7 @@ a.post-li {
   margin-right:auto;
   margin-left:auto;
   max-width: 800px;
+  background-color: inherit;
 }
 
 .inner-header .logo {
@@ -238,9 +242,7 @@ a.post-li {
 }
 
 .header {
-  background: rgb(255, 255, 255);
 }
-
 
 .site .header a {
   text-decoration: none;
