@@ -91,6 +91,7 @@ a:visited { color: #996699; }
   gap: 10px;
   flex-wrap: wrap;
   justify-content: center;
+  padding-top: 5px;
 }
 
 .post-li {
