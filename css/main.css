@@ -262,20 +262,22 @@ a.post-li {
 }
 
 .navigation a {
-  padding: 10px;
   font-size: 30px;
-}
-
-.navigation a {
+  font-family: 'Nunito', sans-serif;
   color: #222222; 
+  padding: 8px 16px;
 }
 
 .navigation a:hover {
-  text-decoration: underline;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  text-decoration: none;
 }
 
 .navigation a.active {
-  text-decoration: underline;
+  background-color: #d0d0d0;
+  color: #222222;
+  border-radius: 20px;
 }
 
 .footer {
